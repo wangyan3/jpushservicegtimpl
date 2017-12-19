@@ -1,8 +1,10 @@
 # jpushservicegtimpl
 推送服务实现了个推，5分钟实现个推集成
-首先这个模块需要感谢我们的组长  是他带领我们团队 实现了模块化开发  @xmgcoffee
-调用步骤：
-在项目根目录的`build.gradle`添加库引用
+首先这个模块需要感谢我们的组长  是他带领我们团队 实现了模块化开发  
+##@xmgcoffee<https://github.com/xmgcoffee>
+
+
+调用步骤：在项目根目录的`build.gradle`添加库引用
 ```
 maven {url "http://mvn.gt.igexin.com/nexus/content/repositories/releases/"}
 maven { url 'https://jitpack.io' }
@@ -84,6 +86,10 @@ public class TestApplication extends Application {
     }
 }
 ```
+
+如果调用有问题，可以qq联系我  763798314
+
+
 
 
         
