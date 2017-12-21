@@ -15,6 +15,7 @@ dependencies {
     api 'com.github.wangyan3:jcommon:1.0.2'
     api 'com.github.wangyan3:jpushservice:1.0.0'
     api 'com.github.wangyan3:jpushservicegtimpl:1.0.0'
+    api 'com.getui:sdk:2.11.1.0'
 }
 ```
 现在开始配置个推的参数在`build.gradle`的`defaultConfig`中加入
